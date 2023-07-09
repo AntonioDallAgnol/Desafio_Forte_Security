@@ -8,12 +8,7 @@ O desafio consistia em fazer resizeble bars, em que fosse possível escolher o t
 - Valor mínimo para um bloco é de 10%, impedindo seleção menor que isso.
 
 ## Como rodar
-Para rodar é muito simples, basta abrir o terminal na pasta do programa (Desafio Forte Security) e rodar o comando:
-```
-npm run dev
-```
-Após rodar o comando basta abrir o link [](http://localhost:5173/)
-http://localhost:5173/.
+Usei o vite como servidor de desenvolvimento local, porém não consegui colocar todos os arquivos nesse repositório, por isso só coloquei os arquivos essenciais do projeto. Como os arquivos React, css e html.
 ## Como redimensionar os Discos
 - Para redimensionar os discos basta segurar o botão do mouse ou o touch do celular e arrastar o disco para os lados.
 - Arrastar um disco para a direita irá aumentar o seu tamanho do e reduzirá o tamanho do disco direito.
